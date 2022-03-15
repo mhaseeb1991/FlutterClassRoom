@@ -1,7 +1,8 @@
 import 'dart:io';
 
 void main() {
-  // question1();
+  //Uncomment the specific questionNo method and run the file. Output will be printed in the console.
+  question1();
   // question2();
   // question3();
   // question4();
@@ -12,7 +13,7 @@ void main() {
   // question9();
   // question10();
   // question11();
-  question12();
+  // question12();
   // question13();
   // question14();
 }
